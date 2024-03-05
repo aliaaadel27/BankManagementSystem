@@ -1,2 +1,3 @@
 # BankManagementSystem
-A simple bank app with some banking features using Java.
+A simple bank app with some banking features: account
+creation, transactions, and balance inquiry.
